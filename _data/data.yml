@@ -15,11 +15,11 @@ sidebar:
   email: perezaln.09@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Alan Perez
+  github: https://github.com/alanjosue97
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,17 +27,16 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+   
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Quick learner
       link: # dejar en blanco
 
     - item: Team Work
@@ -50,67 +49,37 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I recently graduated from the systems engineering career at the University of Colima, with 4 years of 
+experience in the development of student web projects as a front-end developer as well as having a 
+knowledge of the back-end and database management.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Certificate Programming
+    High School: Centro de Bachillerato Tecnológico Industrial y de Servicios No. 157
+    time: 2013 Agust - 2016 July
+    details: | 
+
+  - degree: Bachelor’s in Computer System Engineering
+    university: Colima University
+    time: 2017 Agust - 2021 July
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Web Developer 
+    time: 02/2019 - 05/2019
+    company: Colima University
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+     I developed a web page throghout using only HTML and CSS 
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+
+  - role: Database Management and Administration
+    time: 2019 - 2020
+    company: Colima University
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I know how to administer and handle databases
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -123,22 +92,22 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 10%
 
-    - name: PyTorch
-      level: 40%
+    - name: JavaScript
+      level: 10%
 
-    - name: Tensorflow
+    - name: CSS
+      level: 30%
+
+    - name: HTML
       level: 60%
 
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
+    - name: SQL
+      level: 30%
 
     - name: C/C++
-      level: 40%
+      level: 10%
 
 # NO MODIFICAR
 footer: >
